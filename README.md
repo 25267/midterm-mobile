@@ -1,0 +1,2 @@
+# midterm-mobile
+Zhanibek Amangeldiev
